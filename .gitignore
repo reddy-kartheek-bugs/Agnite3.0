@@ -20,9 +20,7 @@ __pycache__/
 Icon
 
 # App Specific Data & Vector Stores
-data/
 vectorstore/
-*.pdf
 
 # Logs and Databases
 *.log
